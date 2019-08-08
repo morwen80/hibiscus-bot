@@ -1,0 +1,19 @@
+{
+  "name": "hibiscus-bot",
+  "version": "1.0.0",
+  "description": "Hibiscus is a Twitter Bot",
+  "main": "twitterBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "flowers"
+  ],
+  "author": "Valeria Ragonese",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
