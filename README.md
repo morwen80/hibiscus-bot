@@ -1,4 +1,5 @@
-#Hibiscus Bot ~ a twitter bot :hibiscus:
+# Hibiscus Bot  :hibiscus:
+## a twitter bot
 
 **Hibiscus** is a Twitter Bot built with Node.js, that will retweet and like flower-related hashtags.
 
