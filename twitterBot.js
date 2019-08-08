@@ -68,7 +68,6 @@ let followBack = function(){
 }
 
 retweet();
-// favourite();
 followBack();
 
 setInterval(retweet, 600000)
